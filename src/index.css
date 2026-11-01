@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "The Seasons", "Cormorant Garamond", Georgia, serif;
+  --font-body: "Lora", Georgia, serif;
+  --font-signature: "Allura", cursive;
+
+  --color-brand-blue: #8ABDD0;
+  --color-brand-beige: #CDB090;
+  --color-canvas-offwhite: #FAF8F4;
+  --color-canvas-white: #FFFFFF;
+  --color-surface-blue: #EEF6F8;
+  --color-surface-beige: #F5EFE7;
+  --color-ink-charcoal: #39434A;
+  --color-ink-deep: #242C31;
+  --color-ink-muted: #5C666E;
+  --color-ink-secondary: #778087;
+  --color-border-soft: #E8E6E1;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-body);
+    color: #39434A;
+    background-color: #FAF8F4;
+    scroll-behavior: smooth;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    color: #39434A;
+    text-wrap: balance;
+  }
+
+  p {
+    font-family: var(--font-body);
+    line-height: 1.75;
+  }
+}
+
+/* Subtle transparent blending for brand logo on warm off-white surfaces */
+.logo-blend {
+  mix-blend-mode: multiply;
+}

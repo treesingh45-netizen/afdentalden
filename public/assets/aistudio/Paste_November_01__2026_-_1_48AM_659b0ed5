@@ -1,0 +1,1437 @@
+# COMPLETE WEBSITE DEVELOPMENT PROMPT — A.F DENTAL DEN
+
+## PROJECT OVERVIEW
+
+Create a complete, premium, modern, and professionally designed website for **A.F Dental Den**, a dental clinic located in Rawalpindi, Pakistan.
+
+Existing website: https://afdentalden.pk/
+
+The purpose of this project is to create a beautiful, trustworthy, informative, and user-friendly online presence for the dental clinic. The website must communicate professionalism, confidence, quality dental care, and a welcoming patient experience.
+
+This must be a complete, fully developed, multi-page website with **7 separate pages**, not one long landing page containing all the information.
+
+Each page must have its own URL, unique content, appropriate layout, and organized sections. All pages must connect through a consistent navigation system and footer.
+
+Use the provided A.F Dental Den logo as the primary brand identity. Preserve the original logo, its proportions, colors, and transparency. Do not recreate or distort the logo.
+
+First, inspect the existing website and use any factual information that is accessible. If the existing website is inaccessible, use the information in this prompt and leave unknown details as editable placeholders. Never invent clinic details.
+
+---
+
+# 1. BRAND IDENTITY AND DESIGN SYSTEM
+
+## Logo
+
+Use the provided transparent A.F Dental Den logo.
+
+The logo consists of:
+- A blue tooth and letter A design.
+- A beige/golden tooth and letter F design.
+- A.F DENTAL DEN brand name.
+- The tagline: BE PROUD OF YOUR SMILE.
+
+Logo instructions:
+- Use the complete logo in the website header.
+- Use an appropriately sized version in the footer.
+- Use the icon or tooth symbol for the browser favicon only if an isolated logo asset is available.
+- Maintain the original colors.
+- Never stretch, crop, recolor, distort, or add effects to the logo.
+- Use a transparent background so the logo blends naturally with the website.
+- Maintain sufficient white space around the logo.
+
+## Website Color Palette
+
+The complete website design must follow the original logo colors.
+
+Primary colors:
+
+- Sky Blue: #8ABDD0
+- Warm Beige / Sand Gold: #CDB090
+
+Supporting colors:
+
+- Off-white Background: #FAF8F4
+- Pure White: #FFFFFF
+- Light Blue Background: #EEF6F8
+- Light Beige Background: #F5EFE7
+- Dark Charcoal Text: #39434A
+- Secondary Gray Text: #778087
+- Soft Borders: #E8E6E1
+
+Color implementation:
+
+Use sky blue for primary buttons, important links, icons, highlights, and selected design elements.
+
+Use warm beige for secondary buttons, decorative details, subtle dividers, and premium accent elements.
+
+Use off-white and white for the main page backgrounds.
+
+Use light blue and light beige as alternating section backgrounds to create visual variety.
+
+Use dark charcoal for headings and body text to maintain excellent readability.
+
+IMPORTANT:
+Do not introduce unrelated colors such as bright red, neon green, purple, or dark gold. The entire website must consistently follow the logo's blue-and-beige identity.
+
+The visual result should feel light, sophisticated, clean, elegant, and professional.
+
+---
+
+# 2. TYPOGRAPHY AND FONT SYSTEM
+
+Use three main typography styles throughout the complete website.
+
+### Font 1: The Seasons
+
+Use The Seasons as the primary display and heading font.
+
+Apply it to:
+- Main homepage headings.
+- Page titles.
+- Section headings.
+- Service titles.
+- Important statements.
+- Doctor section headings.
+- Large editorial-style text.
+
+The Seasons should provide a sophisticated, elegant, luxury-inspired appearance.
+
+### Font 2: Lora
+
+Use Lora as the primary body and supporting text font.
+
+Apply it to:
+- Paragraphs.
+- Descriptions.
+- About page content.
+- Service descriptions.
+- Doctor qualifications.
+- FAQs.
+- Contact information.
+- General website content.
+
+Maintain comfortable line spacing and excellent readability.
+
+### Font 3: Signature
+
+Use an elegant handwritten signature-style font for selective decorative text.
+
+Apply it to:
+- Short supporting phrases.
+- Small highlighted words.
+- Decorative text near major headings.
+- Short emotional brand statements.
+
+Example:
+
+"Your Smile, Our Passion"
+
+"Designed Around Your Smile"
+
+"Be Proud of Your Smile"
+
+Do not use the signature font for long paragraphs, navigation menus, buttons, or important medical information.
+
+### Typography hierarchy
+
+Use large and elegant headings with balanced spacing.
+
+Use readable body text and consistent font weights.
+
+Avoid excessive bold text.
+
+Make sure font sizes scale properly across desktop, tablet, and mobile.
+
+If The Seasons or Signature font files are not available, use the closest suitable licensed alternative while keeping Lora as the body font. Do not use a generic default font throughout the website.
+
+---
+
+# 3. WEBSITE STRUCTURE — SEVEN SEPARATE PAGES
+
+Create the following seven independent pages:
+
+1. Home
+2. About Us
+3. Dental Services
+4. Our Doctors
+5. Smile Gallery
+6. Patient Guide & FAQs
+7. Contact & Appointments
+
+Suggested routes:
+
+- /
+- /about
+- /services
+- /doctors
+- /gallery
+- /patient-guide
+- /contact
+
+Every page must have a consistent header, navigation, branding, and footer.
+
+Navigation must work correctly and direct visitors to the corresponding separate page.
+
+---
+
+# PAGE 01 — HOME
+
+## Homepage Design Direction
+
+Create an impressive, welcoming, and premium homepage.
+
+The first screen should immediately communicate that A.F Dental Den is a professional dental clinic with a team covering multiple dental specialties.
+
+### Section 1: Header and Navigation
+
+Create a clean, elegant, sticky navigation bar.
+
+Left side:
+- A.F Dental Den logo.
+
+Right side:
+- Home
+- About Us
+- Services
+- Our Doctors
+- Smile Gallery
+- Patient Guide
+- Contact
+
+Add a prominent "Book Appointment" button.
+
+Header requirements:
+- White or soft off-white background.
+- Subtle bottom border.
+- Proper spacing.
+- Smooth sticky navigation.
+- Elegant hover effects.
+- Responsive mobile navigation menu.
+
+The header should not look crowded.
+
+### Section 2: Hero / Main Banner
+
+Create a full-width, visually attractive hero section.
+
+Use a large, high-quality, realistic dental clinic photograph as the background or a well-composed image alongside the text.
+
+Image direction:
+- Modern dental clinic interior.
+- Professional dental consultation.
+- Dentist and patient interaction.
+- Bright, clean, welcoming atmosphere.
+- Natural lighting.
+- Modern dental environment.
+
+Avoid artificial-looking images, cartoon illustrations, black-and-white photographs, or exaggerated dental imagery.
+
+Place the main text in a beautiful, spacious layout.
+
+Suggested hero content:
+
+Small heading:
+
+A.F DENTAL DEN — RAWALPINDI
+
+Main heading:
+
+A Healthier Smile Begins With the Right Care.
+
+Supporting text:
+
+Discover professional dental care with a team of specialists dedicated to supporting your oral health and helping you feel confident about your smile.
+
+Primary CTA:
+BOOK AN APPOINTMENT
+
+Secondary CTA:
+EXPLORE OUR SERVICES
+
+Add a subtle decorative signature phrase:
+
+"Be Proud of Your Smile"
+
+Hero requirements:
+- Large elegant typography.
+- Balanced text positioning.
+- Excellent text-image contrast.
+- Subtle entrance animation.
+- Premium visual composition.
+- Proper mobile adaptation.
+
+### Section 3: Introduction to A.F Dental Den
+
+Section heading:
+
+Your Smile Deserves Thoughtful Dental Care
+
+Content:
+
+At A.F Dental Den, we bring together dental professionals from different specialties to support a wide range of oral healthcare needs. Our team includes general dentists and specialists in orthodontics, endodontics, oral and maxillofacial surgery, and prosthodontics.
+
+Our focus is to help patients understand their dental care options and connect with the appropriate dental professional.
+
+Use an image of a welcoming dental clinic or a professional dental consultation.
+
+Add a button:
+
+DISCOVER OUR CLINIC
+
+Link to About Us.
+
+### Section 4: Our Dental Specialties
+
+Heading:
+
+Complete Dental Care Under One Roof
+
+Supporting text:
+
+Explore our areas of dental expertise and discover the specialist care relevant to your needs.
+
+Create five premium service cards:
+
+1. General Dentistry
+2. Orthodontics
+3. Endodontics
+4. Oral & Maxillofacial Surgery
+5. Prosthodontics
+
+Each card should contain:
+- Elegant dental-related image or professional icon.
+- Specialty name.
+- Short description.
+- Learn More link.
+
+Use subtle card shadows, light backgrounds, and rounded but sophisticated corners.
+
+Only advertise specific procedures after confirming they are provided by the clinic.
+
+Button:
+
+VIEW ALL SERVICES
+
+### Section 5: Meet Our Dental Specialists
+
+Heading:
+
+Meet the Professionals Behind Your Smile
+
+Supporting text:
+
+Get to know our dental professionals and explore their respective specialties and qualifications.
+
+Display six doctor profile cards.
+
+Each card should include:
+- Doctor photograph if supplied and approved.
+- Doctor's full name.
+- Specialty.
+- Qualifications.
+- View Profile link.
+
+Use attractive, consistent profile layouts.
+
+Button:
+
+MEET OUR FULL TEAM
+
+Link to Our Doctors.
+
+### Section 6: Why Choose A.F Dental Den?
+
+Heading:
+
+Care That Puts Your Smile First
+
+Create four elegant feature blocks:
+
+- Multiple Dental Specialties
+- Qualified Dental Professionals
+- Patient-Focused Approach
+- Convenient Appointment Enquiries
+
+Use simple line icons matching the brand palette.
+
+Avoid unverified claims about technology, equipment, painless treatments, success rates, or years of experience.
+
+### Section 7: Smile Gallery Preview
+
+Heading:
+
+Every Smile Has Its Own Story
+
+Create a beautiful image grid with real, approved clinic photographs.
+
+Include:
+- Clinic environment.
+- Dental treatment room.
+- Dental professionals.
+- Approved clinical photographs.
+
+Only use genuine patient before-and-after photos with explicit permission.
+
+Do not fabricate patient transformations.
+
+Button:
+
+EXPLORE OUR GALLERY
+
+### Section 8: Appointment CTA
+
+Create an elegant full-width section with a light blue or beige background.
+
+Heading:
+
+Ready to Take the Next Step Toward a Healthier Smile?
+
+Supporting text:
+
+Get in touch with A.F Dental Den to enquire about appointments and dental care.
+
+Buttons:
+- CALL OUR CLINIC
+- BOOK AN APPOINTMENT
+
+### Section 9: Homepage Contact Preview
+
+Display:
+- Phone number.
+- Email.
+- Rawalpindi, Pakistan.
+- Appointment enquiry link.
+
+Keep this section simple and elegant.
+
+---
+
+# PAGE 02 — ABOUT US
+
+Page title:
+
+ABOUT A.F DENTAL DEN
+
+Hero heading:
+
+A Commitment to Healthier, Happier Smiles.
+
+Use a premium dental clinic photograph alongside the page heading.
+
+### Section 1: Our Introduction
+
+Heading:
+
+Get to Know A.F Dental Den
+
+Content:
+
+A.F Dental Den is a dental clinic based in Rawalpindi, Pakistan, bringing together dental professionals from several areas of dentistry.
+
+Our team includes general dentists and specialists in orthodontics, endodontics, oral and maxillofacial surgery, and prosthodontics.
+
+We aim to make dental care approachable by helping patients understand their available care options and connect with the appropriate dental specialist.
+
+### Section 2: Our Approach
+
+Heading:
+
+Thoughtful Care, Professional Expertise
+
+Create three content blocks:
+
+1. Patient-Focused Care
+
+We believe that every patient's dental needs deserve careful attention and clear communication.
+
+2. Specialist Expertise
+
+Our dental team covers several areas of dentistry, allowing patients to explore different specialties within one clinic.
+
+3. Informed Decisions
+
+We encourage patients to understand their dental concerns and discuss appropriate care options with their dental professional.
+
+### Section 3: Our Dental Team
+
+Heading:
+
+Different Specialties. One Shared Purpose.
+
+Display a beautiful team presentation featuring all six doctors.
+
+Use individual profiles and their correct qualifications.
+
+### Section 4: Our Brand Philosophy
+
+Create an elegant visual section using the signature font.
+
+Main statement:
+
+"Be Proud of Your Smile"
+
+Supporting text:
+
+A confident smile begins with understanding your dental health and finding the right care.
+
+### Section 5: Appointment CTA
+
+Heading:
+
+Let's Take Care of Your Smile.
+
+Button:
+
+BOOK YOUR APPOINTMENT
+
+---
+
+# PAGE 03 — DENTAL SERVICES
+
+Page title:
+
+OUR DENTAL SERVICES
+
+Hero heading:
+
+Professional Dental Care Across Multiple Specialties
+
+Supporting text:
+
+Explore the different areas of dentistry represented by the A.F Dental Den team.
+
+Create an elegant service page with large images, organized specialty descriptions, and dedicated sections.
+
+## Service 01 — General Dentistry
+
+Description:
+
+General dentistry focuses on maintaining oral health, evaluating dental concerns, and supporting patients with their routine dental care needs.
+
+Specialists:
+- Dr. Ali Baqar
+- Dr. Fatema Khozema
+
+Add a professional dental consultation photograph.
+
+## Service 02 — Orthodontics
+
+Description:
+
+Orthodontics focuses on the alignment of teeth and jaws and the assessment of bite-related concerns.
+
+Specialist:
+- Dr. Sarrah
+
+Use a high-quality, realistic orthodontic-related photograph.
+
+## Service 03 — Endodontics
+
+Description:
+
+Endodontics is a specialized area of dentistry focused on the diagnosis and treatment of conditions affecting the dental pulp and tissues surrounding the roots of teeth.
+
+Specialist:
+- Dr. Rana Muhammad Ahmad
+
+Use an appropriate professional dental treatment photograph.
+
+## Service 04 — Oral & Maxillofacial Surgery
+
+Description:
+
+Oral and maxillofacial surgery deals with the diagnosis and surgical management of conditions involving the mouth, jaws, face, and related structures.
+
+Specialist:
+- Dr. Ahsanullah
+
+Use a suitable professional surgical dentistry image, avoiding disturbing imagery.
+
+## Service 05 — Prosthodontics
+
+Description:
+
+Prosthodontics focuses on the restoration and replacement of missing or damaged teeth and the rehabilitation of oral function.
+
+Specialist:
+- Dr. Ghulam Mustafa
+
+Use a high-quality restorative dentistry photograph.
+
+### Service Page Design
+
+Each specialty must have:
+- A clear section heading.
+- A short professional description.
+- A relevant photograph.
+- Associated doctor information.
+- A Book Appointment button.
+
+Create alternating image and text layouts.
+
+Do not overload the page with unnecessary paragraphs.
+
+Make the page visually attractive and easy to explore.
+
+Add a closing appointment CTA.
+
+---
+
+# PAGE 04 — OUR DOCTORS
+
+Page title:
+
+MEET OUR DENTAL SPECIALISTS
+
+Hero heading:
+
+Experienced Dental Professionals Across Multiple Specialties
+
+Supporting text:
+
+Meet the dental professionals at A.F Dental Den and explore their respective qualifications and areas of expertise.
+
+This page is extremely important. Present all six doctors professionally and accurately.
+
+Create six individual doctor profiles.
+
+Use consistent profile cards with professional portraits. If actual doctor photographs have not been supplied, use tasteful neutral placeholders until real portraits are provided. Never generate fake photographs and present them as real doctors.
+
+## DOCTOR 01
+
+Name:
+
+DR. ALI BAQAR
+
+Specialty:
+
+GENERAL DENTIST
+
+Qualifications:
+
+B.D.S (GOLD MEDALIST)
+
+R.D.S
+
+C-ENDO
+
+Profile design:
+
+Display the doctor's name prominently, followed by the specialty and qualifications.
+
+## DOCTOR 02
+
+Name:
+
+DR. FATEMA KHOZEMA
+
+Specialty:
+
+GENERAL DENTIST
+
+Qualifications:
+
+B.D.S
+
+R.D.S
+
+MSPH
+
+## DOCTOR 03
+
+Name:
+
+DR. SARRAH
+
+Specialty:
+
+ORTHODONTIST
+
+Qualifications:
+
+B.D.S
+
+R.D.S
+
+FCPS (ORTHO)
+
+## DOCTOR 04
+
+Name:
+
+DR. RANA MUHAMMAD AHMAD
+
+Specialty:
+
+ENDODONTIST
+
+Qualifications:
+
+B.D.S
+
+R.D.S
+
+FCPS (OPERATIVE DENTISTRY & ENDODONTICS)
+
+## DOCTOR 05
+
+Name:
+
+DR. AHSANULLAH
+
+Specialty:
+
+ORAL & MAXILLOFACIAL SURGEON
+
+Qualifications:
+
+B.D.S
+
+R.D.S
+
+FCPS (OMFS)
+
+HOD OMFS (SCHOOL OF DENTISTRY)
+
+## DOCTOR 06
+
+Name:
+
+DR. GHULAM MUSTAFA
+
+Specialty:
+
+PROSTHODONTIST
+
+Qualifications:
+
+B.D.S
+
+R.D.S
+
+MDS (PROSTHO)
+
+(SCHOOL OF DENTISTRY)
+
+### Doctor Profile Design Instructions
+
+Each profile card should include:
+
+- Professional doctor photograph.
+- Doctor's name in The Seasons font.
+- Specialty in a small blue or beige label.
+- Qualifications in Lora.
+- A subtle decorative element.
+- Appointment enquiry button.
+
+For desktop, use a clean three-column profile grid where space allows.
+
+For tablet, use two columns.
+
+For mobile, use a single-column layout.
+
+Keep all names and qualifications readable.
+
+Do not add fictional biographies, registration numbers, awards, experience years, or designations.
+
+Add a contact CTA below the profiles.
+
+---
+
+# PAGE 05 — SMILE GALLERY
+
+Page title:
+
+OUR CLINIC & SMILE GALLERY
+
+Hero heading:
+
+A Closer Look at A.F Dental Den
+
+Supporting text:
+
+Explore our clinic environment and get to know the people and spaces behind our dental care.
+
+### Section 1: Clinic Environment
+
+Create an elegant photo gallery showing:
+- Reception area.
+- Waiting area.
+- Dental treatment rooms.
+- Dental chairs and equipment.
+- Consultation spaces.
+
+### Section 2: Our Dental Team
+
+Create an image section dedicated to:
+- Individual doctor portraits.
+- Team photographs.
+- Professional clinic activities.
+
+### Section 3: Dental Care Gallery
+
+Create a dedicated section for approved clinical photographs.
+
+Use these categories as filters:
+
+- All Photos
+- Clinic
+- Dental Team
+- Treatments
+- Smile Transformations
+
+The gallery must have:
+- Responsive masonry or balanced grid layout.
+- Image hover effects.
+- Click-to-expand lightbox.
+- Smooth transitions.
+- Consistent image ratios.
+- Proper image compression.
+
+Only use authentic images supplied by the clinic or appropriately licensed photographs.
+
+For smile transformation images, only publish genuine before-and-after images with informed patient consent.
+
+Do not create fake before-and-after results.
+
+If photographs are not supplied, create attractive image placeholders that can easily be replaced.
+
+Add an appointment CTA at the bottom.
+
+---
+
+# PAGE 06 — PATIENT GUIDE & FAQs
+
+Page title:
+
+PATIENT INFORMATION
+
+Hero heading:
+
+Everything You Need to Know Before Your Visit
+
+Supporting text:
+
+Find helpful information about contacting A.F Dental Den, enquiring about appointments, and choosing the right dental specialty.
+
+### Section 1: Making an Appointment
+
+Explain the appointment enquiry process:
+
+1. Contact the clinic by phone or WhatsApp.
+2. Share your name and appointment enquiry.
+3. Mention the dental concern or specialist you wish to consult.
+4. The clinic team can guide you regarding appointment availability and confirmation.
+
+Add a WhatsApp enquiry button.
+
+### Section 2: Finding the Right Specialist
+
+Create a clean specialty guide.
+
+General Dentistry:
+Dr. Ali Baqar and Dr. Fatema Khozema.
+
+Orthodontics:
+Dr. Sarrah.
+
+Endodontics:
+Dr. Rana Muhammad Ahmad.
+
+Oral & Maxillofacial Surgery:
+Dr. Ahsanullah.
+
+Prosthodontics:
+Dr. Ghulam Mustafa.
+
+Add a note that patients should contact the clinic for guidance about which specialist may be appropriate for their concern.
+
+### Section 3: Frequently Asked Questions
+
+Create an interactive accordion FAQ section.
+
+Include:
+
+**Q1. How can I book an appointment?**
+
+You can contact A.F Dental Den through the provided phone number or WhatsApp to enquire about appointments.
+
+**Q2. Where is A.F Dental Den located?**
+
+A.F Dental Den is located in Rawalpindi, Pakistan. Contact the clinic for its exact street address and directions.
+
+**Q3. Which dental specialists are available?**
+
+The team includes general dentists, an orthodontist, an endodontist, an oral and maxillofacial surgeon, and a prosthodontist.
+
+**Q4. Can I contact the clinic before visiting?**
+
+Yes. You can call or email the clinic to ask questions and enquire about appointments.
+
+**Q5. How do I know which dental specialist I need?**
+
+Contact the clinic and explain your dental concern. The clinic can guide you about the appropriate specialist.
+
+**Q6. What are the clinic's opening hours?**
+
+Please contact the clinic directly to confirm its current opening hours.
+
+**Q7. Can I enquire about a particular treatment?**
+
+Yes. Contact the clinic and share the treatment or dental service you would like to enquire about.
+
+Do not invent fees, insurance policies, treatment guarantees, or opening hours.
+
+### Section 4: Helpful Contact CTA
+
+Heading:
+
+Have More Questions?
+
+Supporting text:
+
+Our team can help you with appointment enquiries and general clinic information.
+
+Buttons:
+- CALL THE CLINIC
+- WHATSAPP US
+
+---
+
+# PAGE 07 — CONTACT & APPOINTMENTS
+
+Page title:
+
+CONTACT A.F DENTAL DEN
+
+Hero heading:
+
+Your Next Step Toward a Healthier Smile Starts Here.
+
+Supporting text:
+
+Get in touch with our clinic to enquire about appointments and dental services.
+
+### Section 1: Contact Information
+
+Display the following information clearly.
+
+Business Name:
+
+A.F Dental Den
+
+Phone Number:
+
+0337-5914872
+
+Email Address:
+
+Afdentalden@gmail.com
+
+Location:
+
+Rawalpindi, Pakistan
+
+Create four clean contact information blocks using matching line icons.
+
+Phone must be clickable.
+
+Email must use a mailto link.
+
+### Section 2: Appointment Request Form
+
+Create an elegant, functional appointment enquiry form.
+
+Form fields:
+
+1. Full Name
+2. Phone Number
+3. Email Address
+4. Preferred Appointment Date
+5. Preferred Appointment Time
+6. Select Dental Specialty
+7. Message / Dental Concern
+
+Specialty dropdown options:
+
+- General Dentistry
+- Orthodontics
+- Endodontics
+- Oral & Maxillofacial Surgery
+- Prosthodontics
+- Not Sure / Need Guidance
+
+Submit button:
+
+REQUEST AN APPOINTMENT
+
+Form functionality:
+
+- Validate required fields.
+- Validate phone and email formats.
+- Provide clear error messages.
+- Show a confirmation message after successful submission.
+- Connect to a real backend or configured form service when credentials are provided.
+- Until a backend is configured, offer a working WhatsApp submission fallback with all entered information formatted into a message.
+- Do not show a fake successful appointment confirmation.
+
+Confirmation message:
+
+Thank you for contacting A.F Dental Den. Your appointment request has been received for enquiry. Please contact the clinic directly for confirmation of availability.
+
+### Section 3: WhatsApp Contact
+
+Create a visually attractive WhatsApp contact section.
+
+Button text:
+
+CHAT WITH US ON WHATSAPP
+
+Use this WhatsApp link:
+
+https://wa.me/923375914872
+
+Configure an initial message:
+
+Hello A.F Dental Den, I would like to enquire about a dental appointment.
+
+### Section 4: Phone and Email CTA
+
+Phone link:
+
+tel:+923375914872
+
+Email link:
+
+mailto:Afdentalden@gmail.com
+
+### Section 5: Location and Google Maps
+
+Display:
+
+Rawalpindi, Pakistan.
+
+Create a dedicated Google Maps section with an editable map embed.
+
+IMPORTANT:
+
+The exact street address and verified Google Maps location must be added after the clinic supplies them. Do not use an arbitrary Rawalpindi map pin or invent a street address.
+
+### Section 6: Final CTA
+
+Heading:
+
+We Look Forward to Helping You Smile with Confidence.
+
+Button:
+
+CONTACT OUR CLINIC
+
+---
+
+# 4. GLOBAL HEADER AND NAVIGATION
+
+The header must appear consistently across all seven pages.
+
+Design:
+- Clean white background.
+- Original transparent logo on the left.
+- Navigation links on the right.
+- Blue primary appointment button.
+- Subtle shadow or border.
+- Sticky navigation when scrolling.
+
+Desktop:
+Use a horizontally aligned navigation.
+
+Tablet:
+Reduce spacing while keeping the navigation readable.
+
+Mobile:
+Use a professional hamburger menu with a smooth slide-down or slide-in interaction.
+
+The active page must have a subtle visual indicator.
+
+Every navigation link must work.
+
+---
+
+# 5. GLOBAL FOOTER
+
+Create a premium footer on all seven pages.
+
+Use a deep charcoal or soft blue background only if the logo remains clearly visible. Alternatively, use a white footer with light blue and beige accents.
+
+Footer layout:
+
+### Column 1: Brand
+
+Display the A.F Dental Den logo.
+
+Short description:
+
+A.F Dental Den brings together dental professionals across multiple specialties to support your oral health and help you make informed decisions about dental care.
+
+### Column 2: Quick Links
+
+- Home
+- About Us
+- Services
+- Our Doctors
+- Smile Gallery
+- Patient Guide
+- Contact
+
+### Column 3: Our Specialties
+
+- General Dentistry
+- Orthodontics
+- Endodontics
+- Oral & Maxillofacial Surgery
+- Prosthodontics
+
+### Column 4: Contact Details
+
+Phone: 0337-5914872
+
+Email: Afdentalden@gmail.com
+
+Location: Rawalpindi, Pakistan
+
+### Footer Bottom
+
+Copyright © 2026 A.F Dental Den. All Rights Reserved.
+
+Add the tagline:
+
+BE PROUD OF YOUR SMILE.
+
+Include social media icons only when verified social media URLs are supplied.
+
+---
+
+# 6. VISUAL DESIGN AND IMAGE DIRECTION
+
+The website should feel like a premium dental healthcare brand.
+
+The overall design should be:
+- Elegant.
+- Minimal.
+- Sophisticated.
+- Professional.
+- Clean.
+- Welcoming.
+- Trustworthy.
+- Modern.
+
+### Image Style
+
+Use genuine, high-quality photographs wherever possible.
+
+Image subjects:
+- Bright modern dental clinic interiors.
+- Professional dental consultation.
+- Dentist discussing treatment options with a patient.
+- Real dental team photographs.
+- Modern dental treatment rooms.
+- Professional dental equipment.
+- Natural patient smiles.
+
+Image guidelines:
+
+- Use realistic, colorful photographs.
+- Avoid black-and-white imagery.
+- Avoid cartoon dental illustrations.
+- Avoid exaggerated teeth and artificial smiles.
+- Avoid repeated photographs across multiple sections.
+- Avoid blurry and low-resolution images.
+- Maintain consistent brightness and image quality.
+
+Use real doctor photographs if supplied. Do not generate fictional portraits and label them as the clinic's actual doctors.
+
+Make sure all images are responsive and optimized.
+
+### Decorative Elements
+
+Use:
+- Soft curves.
+- Subtle tooth-inspired decorative details.
+- Elegant thin dividers.
+- Rounded image corners.
+- Gentle background shapes.
+- Light blue and beige section accents.
+- Premium whitespace.
+
+Avoid:
+- Excessive gradients.
+- Heavy shadows.
+- Too many decorative icons.
+- Cluttered layouts.
+- Oversized buttons.
+- Excessive animations.
+
+---
+
+# 7. ANIMATIONS AND INTERACTIONS
+
+Implement refined and professional animations.
+
+Required effects:
+- Smooth page transitions.
+- Subtle fade-in animations.
+- Gentle slide-up section reveals.
+- Smooth scrolling.
+- Button hover transitions.
+- Image hover zoom.
+- Doctor card hover effects.
+- Accordion opening animations.
+- Mobile menu animation.
+- Gallery lightbox transitions.
+
+Animations should feel polished and lightweight.
+
+Avoid excessive motion, distracting parallax, continuous floating elements, or animations that affect readability.
+
+Respect reduced-motion accessibility settings.
+
+---
+
+# 8. FUNCTIONAL REQUIREMENTS
+
+The website must be a complete working website, not only a visual design.
+
+Implement:
+
+- Seven separate pages.
+- Fully working navigation.
+- Responsive mobile navigation.
+- Clickable phone number.
+- Clickable email.
+- Working WhatsApp links.
+- Appointment enquiry form.
+- Form validation.
+- Functional WhatsApp form fallback.
+- Interactive FAQ accordions.
+- Gallery filters.
+- Gallery image lightbox.
+- Smooth scrolling.
+- Sticky header.
+- Working CTA buttons.
+- Correct internal links.
+- Custom 404 page.
+
+Make all interactive components functional.
+
+Do not leave decorative buttons that do nothing.
+
+Do not use fake appointment booking confirmations.
+
+Keep all important business information easy to update.
+
+---
+
+# 9. MOBILE RESPONSIVENESS
+
+The website must look excellent across:
+
+- Desktop computers.
+- Laptops.
+- Tablets.
+- Smartphones.
+- Small mobile screens.
+
+Important mobile requirements:
+
+- Proper logo dimensions.
+- Easy-to-use mobile navigation.
+- Readable heading sizes.
+- Well-spaced text.
+- Full-width mobile buttons where appropriate.
+- Properly stacked doctor cards.
+- Optimized images.
+- No horizontal scrolling.
+- Well-positioned appointment forms.
+- Appropriate image crops.
+- Comfortable touch targets.
+
+Design mobile layouts intentionally rather than simply shrinking desktop layouts.
+
+Test the website at common mobile screen widths.
+
+---
+
+# 10. SEO AND PERFORMANCE
+
+Implement professional on-page SEO for a dental clinic in Rawalpindi, Pakistan.
+
+### SEO Keywords
+
+Use naturally within appropriate page content:
+
+- A.F Dental Den
+- Dentist in Rawalpindi
+- Dental Clinic in Rawalpindi
+- General Dentist Rawalpindi
+- Orthodontist in Rawalpindi
+- Endodontist in Rawalpindi
+- Oral and Maxillofacial Surgeon Rawalpindi
+- Prosthodontist Rawalpindi
+- Dental Care Rawalpindi
+
+Avoid keyword stuffing.
+
+### Technical SEO
+
+Implement:
+- Unique page titles.
+- Unique meta descriptions.
+- SEO-friendly URLs.
+- Semantic HTML structure.
+- Proper heading hierarchy.
+- Image alt text.
+- Open Graph metadata.
+- Canonical URLs.
+- XML sitemap.
+- Robots.txt.
+- Local Business structured data using verified information only.
+
+### Performance
+
+Optimize:
+- Image sizes.
+- Image formats.
+- Lazy loading.
+- Font loading.
+- CSS and JavaScript.
+- Page rendering speed.
+
+Aim for excellent Core Web Vitals and a fast, smooth experience.
+
+### Accessibility
+
+Include:
+- Good color contrast.
+- Keyboard-accessible navigation.
+- Proper form labels.
+- Accessible buttons.
+- Descriptive image alt text.
+- Clear focus states.
+- Screen-reader-friendly structure.
+
+---
+
+# 11. DEVELOPMENT AND CODE QUALITY
+
+Build the complete website using the existing project framework and best-supported modern technologies.
+
+Keep the project organized and maintainable.
+
+Use:
+- Reusable components.
+- Separate page components.
+- Shared header and footer.
+- Consistent design tokens.
+- Organized asset folders.
+- Reusable doctor profile components.
+- Reusable service cards.
+- Reusable form components.
+
+Keep the seven pages separate.
+
+Suggested component structure:
+
+- Header
+- Footer
+- HeroSection
+- SectionHeading
+- ServiceCard
+- DoctorCard
+- GalleryGrid
+- FAQAccordion
+- AppointmentForm
+- ContactCard
+- CTASection
+
+Use consistent global styles.
+
+Avoid duplicated code, broken image paths, unnecessary libraries, and console errors.
+
+Ensure all routes work when directly opened or refreshed.
+
+---
+
+# 12. IMPORTANT CONTENT ACCURACY RULES
+
+This is a real dental clinic website. Accuracy is extremely important.
+
+Use the six doctor profiles and their qualifications exactly as provided.
+
+Do not:
+- Change doctor's names.
+- Invent professional qualifications.
+- Invent years of experience.
+- Add unverified awards.
+- Create fake testimonials.
+- Create fictional reviews.
+- Invent clinic opening hours.
+- Invent treatment prices.
+- Invent the street address.
+- Invent social media accounts.
+- Claim certifications or guarantees that have not been supplied.
+- Display fictional patient results.
+
+For information that has not been provided, create clearly editable placeholders or omit it until confirmed.
+
+Keep all content professional, grammatically correct, and suitable for a healthcare business.
+
+---
+
+# 13. FINAL DESIGN EXPECTATIONS
+
+The final website should look like a high-end, professionally designed dental clinic website.
+
+The homepage must create an excellent first impression.
+
+The About page must communicate the clinic's identity.
+
+The Services page must clearly organize its five dental specialties.
+
+The Doctors page must professionally present all six doctors and their qualifications.
+
+The Gallery must showcase the real clinic environment.
+
+The Patient Guide must help visitors understand how to contact the clinic and enquire about appointments.
+
+The Contact page must make it easy to call, email, or send a WhatsApp appointment enquiry.
+
+Maintain the same brand identity throughout all seven pages.
+
+The website should not look like a generic AI-generated template.
+
+Avoid overcrowding, excessive text, inconsistent typography, repetitive layouts, and unnecessary visual effects.
+
+Use the provided logo as the foundation of the brand design.
+
+Use The Seasons for elegant headings, Lora for readable content, and Signature for selective decorative text.
+
+Use sky blue and warm beige as the defining brand colors.
+
+The result should be visually polished, responsive, functional, fast, and ready for real-world deployment.
+
+## FINAL INSTRUCTION
+
+Build the complete A.F Dental Den website now.
+
+Do not stop after creating the homepage.
+
+Do not create only a static preview.
+
+Complete all seven separate pages, all shared components, all navigation links, responsive layouts, contact functionality, appointment enquiry functionality, and SEO elements.
+
+Review every page before completing the project.
+
+Check that every doctor name, qualification, contact number, email address, and brand detail is correct.
+
+The final result must be a complete, professional dental clinic website that is ready for the clinic's review and deployment.
+
+**A.F DENTAL DEN — BE PROUD OF YOUR SMILE.**

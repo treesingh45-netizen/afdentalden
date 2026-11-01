@@ -1,0 +1,6 @@
+{
+  "name": "A.F Dental Den — Dental Clinic in Rawalpindi",
+  "description": "Multi-specialty dental clinic in Rawalpindi, Pakistan offering General Dentistry, Orthodontics, Endodontics, Oral & Maxillofacial Surgery, and Prosthodontics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

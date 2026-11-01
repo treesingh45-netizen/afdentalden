@@ -1,0 +1,26 @@
+[
+  {
+    "id": "AFD-MVXM2D0S",
+    "createdAt": "2026-11-01T09:11:48.076Z",
+    "fullName": "Hamza Malik",
+    "phone": "0337-5914872",
+    "email": "hamza@example.com",
+    "preferredDate": "2026-11-20",
+    "preferredTime": "Evening (7:00 PM – 9:00 PM)",
+    "specialty": "General Dentistry",
+    "message": "Routine dental checkup enquiry with Dr. Ali Baqar.",
+    "status": "received_for_enquiry"
+  },
+  {
+    "id": "AFD-MVXLZ7QT",
+    "createdAt": "2026-11-01T09:09:21.269Z",
+    "fullName": "Zainab Tariq",
+    "phone": "0337-5914872",
+    "email": "zainab@example.com",
+    "preferredDate": "2026-11-15",
+    "preferredTime": "Afternoon (2:00 PM – 4:30 PM)",
+    "specialty": "Orthodontics",
+    "message": "I would like to enquire about an orthodontic consultation with Dr. Sarrah.",
+    "status": "received_for_enquiry"
+  }
+]
